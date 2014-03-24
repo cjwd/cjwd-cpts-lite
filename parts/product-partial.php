@@ -6,13 +6,11 @@
                     <li><?php echo $data['pricing_tier_group']; ?></li>
                     <h3 class="product-tier-name"></h3>
                     <span class="tier-price"></span>
-                    <a href="">View Example</a>
+                    <a href="" class="btn btn--small btn--positive">View Example</a>
                 </div><!--
                 --><div class="grid__item one-half">
                     <ul class="check-list">
-                        <li>Feature 1</li>
-                        <li>Feature 2</li>
-                        <li>Feature 3</li>
+                        <li></li>
                     </ul>
                 </div>
             </div> <!-- end product-tier -->

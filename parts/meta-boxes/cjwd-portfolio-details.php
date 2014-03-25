@@ -6,7 +6,6 @@
 
 piklist('field', array(
     'type' => 'editor'
-    ,'scope' => 'post'
     ,'field' => 'project_excerpt'
     ,'label' => __('Excerpt')
     ,'description' => __('Short summary of project')
